@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>EffectChance__c</fullName>
+    <description>Está en el rango de 0 al 100%</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Los movimientos del Pòkemon pueden tener un efecto secundario, bien sea afectar el estado o disminuir las estadística del oponente,</inlineHelpText>
+    <label>Chance de Efecto</label>
+    <precision>3</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackTrending>false</trackTrending>
+    <type>Percent</type>
+</CustomField>

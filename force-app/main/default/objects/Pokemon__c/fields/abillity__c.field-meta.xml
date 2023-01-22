@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>abillity__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <description>Este valor viene del objeto skill</description>
+    <externalId>false</externalId>
+    <label>ability</label>
+    <referenceTo>skill__c</referenceTo>
+    <relationshipLabel>Pokemons</relationshipLabel>
+    <relationshipName>Pokemons</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

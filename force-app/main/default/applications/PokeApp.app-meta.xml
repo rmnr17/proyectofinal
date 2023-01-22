@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#F70E0A</headerColor>
+        <logo>pokemon</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
+    </brand>
+    <description>Proyecto final Pokedex podrás ver los pokemones, características, habilidades y movimientos</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>PokeApp</label>
+    <navType>Standard</navType>
+    <tabs>Pokemon__c</tabs>
+    <tabs>skill__c</tabs>
+    <tabs>Motion__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Pokedex_UtilityBar</utilityBar>
+</CustomApplication>
